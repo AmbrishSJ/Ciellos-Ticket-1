@@ -1,0 +1,32 @@
+{
+  "id": "cd46cae5-40d9-44f1-859b-ed1f4ba63712",
+  "name": "Ticket 1 Ciellos",
+  "publisher": "Ambrish S",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50350
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.2",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
